@@ -1,4 +1,4 @@
-# NodeJS - ThreeJS Example
+# NodeJS - ThreeJS - Blender Example
 
 To run, simply execute the following commands:
 
